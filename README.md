@@ -125,7 +125,7 @@ As I continue to explore the world of cloud computing, here are my future goals:
 
 I’d love to connect and share my journey as I explore the world of **Cloud Computing** and **Azure**. If you're passionate about cloud technologies or want to collaborate, feel free to reach out!
 
-You can contact me at **[furqanrao091@gmail.com](mailto:furqanrao091@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can contact me at **[furqanrao091@gmail.com](mailto:furqanrao091@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/furqan-ahmad-38347b330/).
 
 ---
 
