@@ -38,7 +38,7 @@ My professional roadmap includes:
 #### Currently Working With:
 - **Programming Languages:** Python, C++, SQL, Bash
 - **Cloud Platforms:** Google Cloud Platform (focus area)
-- **Tools & Practices:** Version Control (Git), Development Environments, Linux, VS Code
+- **Tools & Practices:** Version Control (Git), Development Environments, Linux, VS Code, N8N
 
 #### Learning Path:
 - **Data Science:** Data Analysis, Visualization, Statistical Methods
