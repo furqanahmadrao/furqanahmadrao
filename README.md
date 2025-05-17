@@ -7,6 +7,10 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=orange)
+
 
 ---
 
@@ -22,7 +26,7 @@ I believe in continuous learning and sharing knowledge with the tech community. 
 
 My professional roadmap includes:
 
-- 📌 Becoming an expert in Python programming and Cloud Computing (2024)
+- 📌 Becoming an expert in Python programming and Cloud Computing (2025)
 - 📌 Diving deep into Artificial Intelligence and Machine Learning foundations
 - 📌 Building a cloud, AI, and automation agency in the future
 - 📌 Creating innovative solutions that solve real-world problems
@@ -32,9 +36,9 @@ My professional roadmap includes:
 ### 🧠 Skills & Technologies
 
 #### Currently Working With:
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python, C++, SQL, Bash
 - **Cloud Platforms:** Google Cloud Platform (focus area)
-- **Tools & Practices:** Version Control (Git), Development Environments
+- **Tools & Practices:** Version Control (Git), Development Environments, Linux, VS Code
 
 #### Learning Path:
 - **Data Science:** Data Analysis, Visualization, Statistical Methods
@@ -52,7 +56,7 @@ My professional roadmap includes:
 
 ### 📝 Content Creation
 
-I actively share my thoughts, insights, and learning experiences on [dev.to](https://dev.to/), where I cover:
+I actively share my thoughts, insights, and learning experiences on [dev.to](https://dev.to/furqanahmadrao), where I cover:
 
 - Personal perspectives on technology trends
 - News and updates from the tech industry
