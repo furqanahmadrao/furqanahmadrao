@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-Hello! I'm **Furqan Ahmad Rao**, a dedicated student at the University of Education (Pakistan) with a passion for technology and software development. I'm on a journey to build a successful career in the fields of Cloud Computing, Artificial Intelligence, and Machine Learning.
+Hello! I'm **Furqan Ahmad Rao**, a passionate technology and software development student at the University of Education (Pakistan). I'm building a career focused on Cloud Computing, AI, and Machine Learning.
 
 I believe in continuous learning and sharing knowledge with the tech community. My approach combines theoretical understanding with practical application, focusing on building solutions that leverage the power of modern technology.
 
@@ -26,24 +26,36 @@ I believe in continuous learning and sharing knowledge with the tech community. 
 
 My professional roadmap includes:
 
-- 📌 Becoming an expert in Python programming and Cloud Computing (2025)
-- 📌 Diving deep into Artificial Intelligence and Machine Learning foundations
-- 📌 Building a cloud, AI, and automation agency in the future
-- 📌 Creating innovative solutions that solve real-world problems
+- 📌 Mastering Python programming and Cloud Computing (by 2025) to build a strong technical foundation.
+- 📌 Progressing into specialized areas of Artificial Intelligence and Machine Learning, including deep learning, NLP, and computer vision.
+- 📌 Applying these advanced skills to develop innovative, scalable AI-powered solutions and automated systems.
+- 📌 Ultimately, establishing a cloud, AI, and automation agency dedicated to solving complex real-world problems.
+- 📌 Continuously creating and sharing knowledge to contribute to the tech community.
 
 ---
 
 ### 🧠 Skills & Technologies
 
-#### Currently Working With:
-- **Programming Languages:** Python, C++, SQL, Bash
-- **Cloud Platforms:** Google Cloud Platform (focus area)
-- **Tools & Practices:** Version Control (Git), Development Environments, Linux, VS Code, N8N
+My technical skills are continuously evolving. Here's a snapshot of my current capabilities and learning journey:
 
-#### Learning Path:
-- **Data Science:** Data Analysis, Visualization, Statistical Methods
-- **Artificial Intelligence:** Neural Networks, Machine Learning Algorithms
-- **Cloud Computing:** Infrastructure as Code, Cloud Architecture, Serverless Computing
+#### Core Proficiencies:
+*(Skills used confidently and regularly, forming the bedrock of my current capabilities)*
+- **Programming Languages:** Python (including data processing, automation, efficient algorithms), SQL, Bash
+- **Cloud Platforms:** Google Cloud Platform (Core services and architecture)
+- **Developer Tools & Practices:** Git & Version Control, Linux, VS Code & Development Environments
+
+#### Actively Developing & Applying:
+*(Skills I'm currently deepening through study and practical application, supporting near-term goals)*
+- **Advanced Python:** Object-Oriented Design Patterns, Advanced Algorithms & Data Structures
+- **Advanced Cloud Computing (GCP):** Infrastructure as Code (IaaC), Serverless Computing, Containerization, Advanced GCP Services
+- **Data Science & Analysis:** Data Analysis, Data Visualization
+- **Automation Tools:** N8N
+- **Other Programming:** C++
+
+#### Exploring Next:
+*(Skills identified for upcoming focused learning, foundational for my long-term AI/ML goals)*
+- **Artificial Intelligence Foundations:** Neural Networks, Machine Learning Algorithms
+- **Statistical Methods for Data Science:** Statistical Methods
 
 ---
 
@@ -91,34 +103,7 @@ This year, I'm dedicating my time and energy to mastering:
    - Infrastructure as code and deployment strategies
    - Serverless computing and containerization
 
-After establishing a strong foundation in these areas, I plan to transition my focus toward AI and ML disciplines to build intelligent, scalable applications.
-
----
-
-### 🔮 Future Focus
-
-Upon solidifying my expertise in Python and cloud computing, I will advance into more specialized areas:
-
-1. **Advanced Artificial Intelligence:**
-   - Deep learning architectures and neural networks
-   - Computer vision and image processing
-   - Natural language processing and understanding
-   - Reinforcement learning systems
-
-2. **Applied Machine Learning:**
-   - Predictive modeling and forecasting
-   - Recommendation systems
-   - Anomaly detection
-   - Data pipeline optimization
-   - Model deployment and monitoring in production environments
-
-3. **Integration & Implementation:**
-   - Combining cloud infrastructure with AI/ML solutions
-   - Building scalable, intelligent applications
-   - Developing automated systems for business processes
-   - Creating AI-powered tools and services
-
-This progression aligns with my long-term goal of establishing a cloud, AI, and automation agency that delivers innovative solutions to complex problems.
+Once this foundation is solid, I'll focus on AI/ML to build intelligent, scalable applications.
 
 ---
 
@@ -132,7 +117,7 @@ This progression aligns with my long-term goal of establishing a cloud, AI, and 
 
 ### 📈 Weekly Learning Focus
 
-> Last Updated: May 14, 2025
+> Last Updated: [Date of Last Update]
 
 #### This Week I'm Learning:
 - **Python:** Advanced error handling and exception management
