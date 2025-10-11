@@ -2,7 +2,7 @@
 
 A passionate Full-Stack Developer and AI Enthusiast from Karachi, Pakistan. I love building innovative solutions and exploring the exciting world of Artificial Intelligence and Machine Learning.
 
-[![GitHub followers](https://img.shields.io/github/followers/furqanahmadrao?style=social)](https://github.com/furqanahmadrao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furqanahmadrao/)
+[![GitHub followers](https://img.shields.io/github/followers/furqanahmadrao?style=social)](https://github.com/furqanahmadrao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furqanahmadrao/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furqanrao091@gmail.com)
 
 ---
 
@@ -49,6 +49,6 @@ A passionate Full-Stack Developer and AI Enthusiast from Karachi, Pakistan. I lo
 
 ### 📫 Get In Touch
 
-Feel free to reach out via [Email](mailto:your.email@example.com) (placeholder). I'm always open to collaboration on interesting projects!
+Feel free to reach out via [Email](mailto:furqanrao091@gmail.com). I'm always open to collaboration on interesting projects!
 
 ---
