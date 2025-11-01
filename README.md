@@ -1,6 +1,15 @@
 # Hi there, I'm Furqan Ahmad Rao! 💻
 
-A passionate Full-Stack Developer and AI Enthusiast from Karachi, Pakistan. I love building innovative solutions and exploring the exciting world of Artificial Intelligence and Machine Learning.
+## 👨‍💻 Tech Enthusiast | 🐍 Python Developer | ☁️ Cloud Computing Learner | 🤖 Future AI/ML Specialist
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=orange)
 
 [![GitHub followers](https://img.shields.io/github/followers/furqanahmadrao?style=social)](https://github.com/furqanahmadrao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furqanahmadrao/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furqanrao091@gmail.com)
 
