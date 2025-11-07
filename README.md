@@ -1,6 +1,8 @@
 # Hi there, I'm Furqan Ahmad Rao! 💻
 
-## 👨‍💻 Tech Enthusiast | 🐍 Python Developer | ☁️ Cloud Computing Learner | 🤖 Future AI/ML Specialist
+## Full‑Stack Developer • AI Enthusiast
+
+Karachi, Pakistan — I build modern web apps and explore AI/ML. Currently crafting a cloud‑based note‑taking app with seamless sync. I enjoy automation, open source, and clean, pragmatic engineering.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,6 +20,8 @@
 
 ### 🚀 About Me
 
+-   **Name**: Furqan Ahmad Rao
+-   **Location**: Karachi, Pakistan
 -   **Role**: Full-Stack Developer / AI Enthusiast
 -   **Currently Working On**: A cloud-based note-taking application
 -   **Interests**: AI/ML, Web Development, Automation, Open Source
