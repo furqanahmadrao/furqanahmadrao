@@ -64,23 +64,30 @@ Here are some of the projects I've worked on. *(This section is a placeholder fo
 My technical skills are continuously evolving. Here's a snapshot of my current capabilities and learning journey:
 
 #### Core Proficiencies:
-*(Skills used confidently and regularly, forming the bedrock of my current capabilities)*
-- **Programming Languages:** Python (including data processing, automation, efficient algorithms), SQL, Bash
-- **Cloud Platforms:** Google Cloud Platform (Core services and architecture)
-- **Developer Tools & Practices:** Git & Version Control, Linux, VS Code & Development Environments
+*(Skills used confidently and regularly)*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Actively Developing & Applying:
-*(Skills I'm currently deepening through study and practical application, supporting near-term goals)*
-- **Advanced Python:** Object-Oriented Design Patterns, Advanced Algorithms & Data Structures
-- **Advanced Cloud Computing (GCP):** Infrastructure as Code (IaaC), Serverless Computing, Containerization, Advanced GCP Services
-- **Data Science & Analysis:** Data Analysis, Data Visualization
-- **Automation Tools:** N8N
-- **Other Programming:** C++
+*(Skills I'm currently deepening through study and practical application)*
+
+![Advanced Python](https://img.shields.io/badge/Advanced_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-F7931E?style=for-the-badge&logo=pandas&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### Exploring Next:
-*(Skills identified for upcoming focused learning, foundational for my long-term AI/ML goals)*
-- **Artificial Intelligence Foundations:** Neural Networks, Machine Learning Algorithms
-- **Statistical Methods for Data Science:** Statistical Methods
+*(Skills identified for upcoming focused learning)*
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-808080?style=for-the-badge)
 
 ---
 
